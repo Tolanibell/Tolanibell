@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I'm currently learning web development
+Any advice on web development will be appreciated
+Reach me: +2348158600659 on Whatsapp
 <!--
 **Tolanibell/Tolanibell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
